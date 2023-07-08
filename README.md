@@ -1,3 +1,3 @@
-## React TypeScript Template with tailwindcss, scss and modern fonts
+## Examine 10
 
 ## ( Portfolio ) https://www.nurullokarimov.uz
